@@ -8,6 +8,7 @@ image:
   filename: dsc06824.jpg
   focal_point: Smart
   preview_only: false
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/YdAqiUkUoWA)"
 ---
 <!--StartFragment-->
 
