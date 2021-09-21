@@ -1,7 +1,7 @@
 ---
 title: Galih Setya Putra
 role: IT
-avatar_filename: dsc06714.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
