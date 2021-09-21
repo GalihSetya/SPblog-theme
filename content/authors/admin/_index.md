@@ -14,7 +14,7 @@ social:
     icon_pack: fab
     link: https://instagram.com/geocushen
 organizations:
-  - name: Stanford University
+  - name: AKAKOM University
     url: ""
 superuser: true
 ---
